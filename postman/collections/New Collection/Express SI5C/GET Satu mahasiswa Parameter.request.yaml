@@ -1,0 +1,5 @@
+$kind: http-request
+name: GET Satu mahasiswa Parameter
+url: http://localhost:3000/mahasiswa/1
+method: GET
+order: 3269612511303969
